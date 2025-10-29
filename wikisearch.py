@@ -1,6 +1,5 @@
 import telebot, wikipedia, re
 import logging
-import logging
 import os
 
 #logging.basicConfig(level=logging.DEBUG)
